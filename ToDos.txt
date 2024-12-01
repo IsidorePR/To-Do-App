@@ -1,3 +1,6 @@
-gym
+run
+play guitar
+stencil
+
 code
-guitar
+gym
